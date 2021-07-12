@@ -1,7 +1,7 @@
 import React from "react";
-import about from "../../assets/images/nav-images/about.png";
-import contact from "../../assets/images/nav-images/contact.png";
-import projects from "../../assets/images/nav-images/projects.png";
+import about from "../../assets/images/nav-images/about2.png";
+import contact from "../../assets/images/nav-images/contact2.png";
+import projects from "../../assets/images/nav-images/projects2.png";
 import '../../index.css';
 
 function Nav(props) {

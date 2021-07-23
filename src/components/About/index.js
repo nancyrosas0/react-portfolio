@@ -1,6 +1,6 @@
 import React from "react";
 import profilePic from "../../assets/images/Nancy.PNG";
-// import Footer from "../Footer";
+import Footer from "../Footer";
 
 function About() {
   return (
